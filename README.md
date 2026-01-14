@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishani Buddika</h1>
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+</p>
 
 
 <p align="center">
@@ -8,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishuranaweera&label=Profile%20Views&color=38bdf8&style=flat" />
 </p>
+
 
 
 
@@ -23,21 +27,26 @@
 <br>
 
 ## 🚀 Featured Project
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 🔗 **OUSL Book Distribution System (React Frontend)**  
 👉 https://github.com/GTechLabX/ousl-book-distribution-system-react-frontend
 
 
+
 <br>
+<br>
+
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ishani-buddika" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/ishu.ranaweera" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@simplyishuskitchen" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" />
   </a>
@@ -54,7 +63,8 @@
 
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>  &nbsp;GitHub Analytics
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>  &nbsp; ## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/ishuranaweera">
