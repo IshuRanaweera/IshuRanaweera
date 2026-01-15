@@ -53,14 +53,6 @@
 
 <br>
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,java,python,nodejs,mysql,git,figma" />
-</p>
-<br>
-
-<br>
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>  &nbsp;  GitHub Analytics
